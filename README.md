@@ -8,4 +8,4 @@ Go, PostgreSQL, Linux, Docker, Prometheus.
 
 Сейчас изучаю Kubernetes-операторы для PostgreSQL.
 
-rozov2004@list.ru · t.me/username
+rozov2004@list.ru · t.me/georgiirozov
